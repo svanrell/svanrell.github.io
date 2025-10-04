@@ -1,4 +1,4 @@
-# 🌐 Mi Página Personal
+# Mi Página Personal
 
 ¡Bienvenido/a a mi web! 🚀  
 Este es mi portafolio personal publicado con **GitHub Pages**.  
@@ -7,23 +7,23 @@ Este es mi portafolio personal publicado con **GitHub Pages**.
 
 ---
 
-## ✨ Sobre mí
+## Sobre mí
 Soy Sergio, un apasionado de la tecnología, la programación y los proyectos creativos.  
 Este sitio lo uso para compartir mis proyectos y aprendizajes.  
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 - HTML  
 - Python
 - Java ?
 - GitHub Pages  
 ---
 
-## 📫 Contacto
+## Contacto
 - GitHub: (https://github.com/svanrell)  
 - Email: svanrell@alumnes.santjosepobrer.es 
 
 ---
 
-💡 *Este repo está hecho para mostrar mi página personal con GitHub Pages.*
+*Este repo está hecho para mostrar mi página personal con GitHub Pages.*
